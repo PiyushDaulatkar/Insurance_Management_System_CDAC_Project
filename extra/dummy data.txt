@@ -1,0 +1,232 @@
+Vendor register ==>
+
+{
+  "name": "Bajaj Allianz",
+  "email": "bajaj1@gmail.com",
+  "password": "Bajaj@1234"
+}
+
+{
+  "name": "Reliance",
+  "email": "reliance2@gmail.com",
+  "password": "Reliance@1234"
+}
+
+{
+  "name": "Tata AIG",
+  "email": "tata3@gmail.com",
+  "password": "Tata@1234"
+}
+
+{
+  "name": "DIGIT General Insurance",
+  "email": "digit4@gmail.com",
+  "password": "Digit@1234"
+}
+
+{
+  "name": "SBI General Insurance",
+  "email": "sbi5@gmail.com",
+  "password": "Sbi@1234"
+}
+
+{
+  "name": "kotak General Insurance",
+  "email": "kotak6@gmail.com",
+  "password": "Kotak@1234"
+}
+
+
+
+
+
+
+addtravelInsurance
+
+{
+  "vendorId": 1,
+  "insuranceId": 0,
+  "vendorName": "Bajaj",
+  "idvCover": 200000,
+  "premium": 2834,
+  "claimsSettled": "98.25%",
+  "addOns": "Medical Expenses ($200,000 Deductible: $100, Medical Evacuation Part of medical expenses ), Baggage Loss ($1,000 No Deductible), Loss of Passport ($250 Deductible: $25).––"
+}
+
+{
+  "vendorId": 2,
+  "insuranceId": 0,
+  "vendorName": "Reliance",
+  "idvCover": 250000,
+  "premium": 3372,
+  "claimsSettled": "96.8%",
+  "addOns": "Medical Expenses ($250,000 Deductible: $50, Medical Evacuation Part of medical expenses ), Baggage Loss ($1,200, Deductible: $50), Loss of Passport ($300 Deductible: $25)."
+}
+
+{
+  "vendorId": 3,
+  "insuranceId": 0,
+  "vendorName": "Tata AIG",
+  "idvCover": 250000,
+  "premium": 4814,
+  "claimsSettled": "98.25%",
+  "addOns": "Medical Expenses ($250,000 Deductible: $100, Medical Evacuation Part of medical expenses ), Baggage Loss ($1,000, NO deductible), Loss of Passport ($250 Deductible: $30)."
+}
+
+{
+  "vendorId": 4,
+  "insuranceId": 0,
+  "vendorName": "DIGIT General Insurance",
+  "idvCover": 250000,
+  "premium": 6469,
+  "claimsSettled": "96.45%",
+  "addOns": "Medical Expenses ($250,000, no deductible, Medical Evacuation Part of medical expenses ), Baggage Loss ($1,000, NO deductible), Loss of Passport ($250 Deductible: $25)."
+}
+
+
+
+
+
+
+addHomeInsurance
+
+{
+  "vendorId": 1,
+  "insuranceId": 0,
+  "vendorName": "Bajaj Allianz",
+  "idvCover": 80000,
+  "premium": 150,
+  "claimsSettled": "96.52%",
+  "addOns": "Rent for Alternate Accomodation = ₹ 40K for 6 months, Loss of Rent = ₹ 50K for 6 months."
+}
+
+
+{
+  "vendorId": 2,
+  "insuranceId": 0,
+  "vendorName": "Reliance",
+  "idvCover": 2050000,
+  "premium": 171,
+  "claimsSettled": "96.8%",
+  "addOns": "Rent for Alternate Accomodation = ₹ 50K for 6 months, Loss of Rent = ₹ 50K for 6 months."
+}
+
+
+{
+  "vendorId": 4,
+  "insuranceId": 0,
+  "vendorName": "DIGIT General Insurance",
+  "idvCover": 450000,
+  "premium": 185,
+  "claimsSettled": "98.85%",
+  "addOns": "Rent for Alternate Accomodation = ₹ 15K for 6 months, Loss of Rent = ₹ 15K for 6 months."
+}
+
+
+{
+  "vendorId": 5,
+  "insuranceId": 0,
+  "vendorName": "SBI General Insurance",
+  "idvCover": 5250000,
+  "premium": 192,
+  "claimsSettled": "96.42%",
+  "addOns": "Rent for Alternate Accomodation = ₹ 30K for 6 months."
+}
+
+
+
+
+
+
+
+
+addHealthInsurance
+
+{
+  "vendorId": 1,
+  "insuranceId": 0,
+  "vendorName": "Bajaj Allianz",
+  "idvCover": 500000,
+  "premium": 701,
+  "claimsSettled": "96.52%",
+  "addOns": "Get Doctor consultation and Health Check-up benefits by opting for Prime Rider, waiting period 3 years, no Room Rent Limit, restoration of cover once a year."
+}
+
+{
+  "vendorId": 2,
+  "insuranceId": 0,
+  "vendorName": "Reliance",
+  "idvCover": 500000,
+  "premium": 520,
+  "claimsSettled": "96.8%",
+  "addOns": "Customise your own plan with additional discount upto 30%, waiting period 3 years, single pvt AC Room, restoration of cover once a year."
+}
+
+{
+  "vendorId": 4,
+  "insuranceId": 0,
+  "vendorName": "DIGIT General Insurance",
+  "idvCover": 500000,
+  "premium": 469,
+  "claimsSettled": "98.85%",
+  "addOns": "15% discount included in premium, waiting period 3 years, no Room Rent Limit, restoration of cover once a year."
+}
+
+{
+  "vendorId": 5,
+  "insuranceId": 0,
+  "vendorName": "SBI General Insurance",
+  "idvCover": 500000,
+  "premium": 851,
+  "claimsSettled": "96.42%",
+  "addOns": "Waiting period 4 years, single pvt AC Room, restoration of cover once a year."
+}
+
+
+
+
+
+
+
+
+addCarInsurance
+
+{
+  "vendorId": 1,
+  "insuranceId": 0,
+  "vendorName": "Bajaj Allianz",
+  "idvCover": 193481,
+  "premium": 4163,
+  "claimsSettled": "96.52%",
+  "addOns": "24x7 Roadside Assistance free, Owner-Driver Personal Accident cover (₹15 lakhs) by Bajaj."
+}
+
+{
+  "vendorId": 2,
+  "insuranceId": 0,
+  "vendorName": "Reliance",
+  "idvCover": 243500,
+  "premium": 3416,
+  "claimsSettled": "96.8%",
+  "addOns": "Buy without inspection, 24x7 Roadside Assistance free, Owner-Driver Personal Accident cover (₹15 lakhs) by Reliance."
+}
+
+{
+  "vendorId": 6,
+  "insuranceId": 0,
+  "vendorName": "Reliance",
+  "idvCover": 142568,
+  "premium": 2428,
+  "claimsSettled": "94.28%",
+  "addOns": "Buy without inspection, 24x7 Roadside Assistance free."
+}
+
+{
+  "vendorId": 1,
+  "insuranceId": 0,
+  "vendorName": "Bajaj Allianz",
+  "idvCover": 193481,
+  "premium": 4247,
+  "claimsSettled": "96.52%",
+  "addOns": "24x7 Roadside Assistance free, Owner-Driver Personal Accident cover (₹15 lakhs) by Bajaj."
+}
