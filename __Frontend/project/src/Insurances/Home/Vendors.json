@@ -1,0 +1,26 @@
+[
+    {
+      "vendorName": "Oriental Insurance",
+      "vendorId":123,
+      "preminum": 3946,
+      "idvCover":188955,
+      "claimsSettled":"98.5%",
+      "addOnns": "24x7 Roadside Assistance"
+    },
+    {
+        "vendorName": "Kotak General Insurance",
+        "vendorId":123,
+        "preminum": 3946,
+        "idvCover":188955,
+        "claimsSettled":"98.5%",
+        "addOnns": "24x7 Roadside Assistance"
+    },
+    {
+        "vendorName": "HDFC ERGO",
+        "vendorId":123,
+        "preminum": 3946,
+        "idvCover":188955,
+        "claimsSettled":"98.5%",
+        "addOnns": "24x7 Roadside Assistance"
+    }
+  ]
