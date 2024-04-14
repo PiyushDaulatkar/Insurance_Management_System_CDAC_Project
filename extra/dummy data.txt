@@ -1,3 +1,6 @@
+Add this data through Swagger or postman in sequence
+
+
 Vendor register ==>
 
 {
