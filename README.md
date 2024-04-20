@@ -1,6 +1,13 @@
 # Insurance_Management_System_CDAC_Project
-CDAC project done by me &amp; my groupmates in Feb 2024. A React and SpringBoot based web application for Insurance market place and management. The project aims to create a comprehensive platform for buying and selling insurances, managing policies, customer data. Application is secured via user authentication and authorization.
+A React and SpringBoot based web application for Insurance marketplace and management. The project aims to create a comprehensive platform for buying and selling insurances, managing policies, customer data and claims processing. The application provides personalized view of user profile and policies helping users in managing their data in a better way. Application is secured via user authentication and authorization. The UI is user friendly and responsive implemented using Bootstrap framework.
 
+## Technologies used :
+React and SpringBoot
+
+## Platform :
+J2EE
+
+## UI ScreenShots :
 ![Screenshot 2024-04-20 220619](https://github.com/PiyushDaulatkar/Insurance_Management_System_CDAC_Project/assets/141228456/f152e59c-a168-4936-909b-e80b12db002c)
 ![Screenshot 2024-04-20 220657](https://github.com/PiyushDaulatkar/Insurance_Management_System_CDAC_Project/assets/141228456/c4b0a1b5-cc2e-4cb4-b344-e2945529d3af)
 ![Screenshot 2024-04-20 220853](https://github.com/PiyushDaulatkar/Insurance_Management_System_CDAC_Project/assets/141228456/a875493d-fbd3-4539-99fe-06b5ff259e1b)
